@@ -1,9 +1,9 @@
 # ERGM_Company_data
 Park YJ, Um JM, Hong SB, Han YJ, and Kim JH* (2022). Statistical ERGM Analysis for Consulting Company  Network Data, The Korean Journal of Applied Statistics, 35(4) 527-541.
 
-This study aims to investigate the factors influencing the formation of advice-giving relationships within a consulting company's workplace network. Using the Exponential Random Graph Model (ERGM), we analyze network data from 44 employees across offices in the United States and Europe.
+#### This study aims to investigate the factors influencing the formation of advice-giving relationships within a consulting company's workplace network. Using the Exponential Random Graph Model (ERGM), we analyze network data from 44 employees across offices in the United States and Europe.
 
-The main objectives of this research are:
+##### The main objectives of this research are:
 
 1. To identify which employees play a significant role in the advice network.
 
@@ -11,9 +11,9 @@ The main objectives of this research are:
 
 3. To explore whether homophily (similarity between individuals) or heterophily (differences between individuals) exists in the advice network.
 
-Through this research, we aim to provide insights into improving workplace network efficiency and communication by identifying key factors that influence the creation of advice relationships.
+#### Through this research, we aim to provide insights into improving workplace network efficiency and communication by identifying key factors that influence the creation of advice relationships.
 
-Keywords: company network, ERGM, network data, reciprocity, transitivity 
+#### Keywords: company network, ERGM, network data, reciprocity, transitivity 
 
 
 | **Variable**       | **Model 1** |           | **Model 2** |           | **Model 3** |           |
